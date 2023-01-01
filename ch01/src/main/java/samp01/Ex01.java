@@ -9,6 +9,6 @@ public class Ex01 {
 //		MessageBeanKr mbk = new MessageBeanKr();
 		MessageBeanEn mbe = new MessageBeanEn();
 //		mbk.sayHello("바이든");
-		mbe.sayHello("bydon");
+		mbe.sayHello("bydn");
 	}
 }
