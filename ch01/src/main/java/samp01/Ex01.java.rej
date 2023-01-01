@@ -1,0 +1,10 @@
+diff a/ch01/src/main/java/samp01/Ex01.java b/ch01/src/main/java/samp01/Ex01.java	(rejected hunks)
+@@ -9,6 +9,6 @@
+ //		MessageBeanKr mbk = new MessageBeanKr();
+ 		MessageBeanEn mbe = new MessageBeanEn();
+ //		mbk.sayHello("바이든");
+-		mbe.sayHello("bydon");
++		mbe.sayHello("bydn");
+ 	}
+ }
+\ No newline at end of file
