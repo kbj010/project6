@@ -11,7 +11,7 @@ import com.ch.ch08.model.Dept;
 import com.ch.ch08.service.DeptService;
 @Controller
 public class DeptController {
-	@Autowired
+	@Autowired  
 	private DeptService ds;
 	@RequestMapping("deptList")
 	public String deptList(Model model) {
